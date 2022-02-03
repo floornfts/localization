@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Floor/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="zh-Hant">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.2.1" build-num="13C100"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>Floor</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSPhotoLibraryAddUsageDescription" xml:space="preserve">
+        <source>Floor would like to save NFT images to your Photo Library.</source>
+        <note>Privacy - Photo Library Additions Usage Description</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Floor/en.lproj/Localizable.strings" source-language="en" target-language="zh-Hant" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.2.1" build-num="13C100"/>
+    </header>
+    <body>
+      <trans-unit id=" → " xml:space="preserve">
+        <source> → </source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="#%@" xml:space="preserve">
+        <source>#%@</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@" xml:space="preserve">
+        <source>%@</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@ %@" xml:space="preserve">
+        <source>%@ %@</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@ ETH" xml:space="preserve">
+        <source>%@ ETH</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%lld" xml:space="preserve">
+        <source>%lld</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%lld %@" xml:space="preserve">
+        <source>%lld %@</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%lld gwei" xml:space="preserve">
+        <source>%lld gwei</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%lld item%@ listed" xml:space="preserve">
+        <source>%lld item%@ listed</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%lld traits" xml:space="preserve">
+        <source>%lld traits</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%lld x" xml:space="preserve">
+        <source>%lld x</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%lld%%" xml:space="preserve">
+        <source>%lld%%</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="-" xml:space="preserve">
+        <source>-</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="1 DAY" xml:space="preserve">
+        <source>1 DAY</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="1 day" xml:space="preserve">
+        <source>1 day</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="1D AVG" xml:space="preserve">
+        <source>1D AVG</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="7 days" xml:space="preserve">
+        <source>7 days</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="30 days" xml:space="preserve">
+        <source>30 days</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="100" xml:space="preserve">
+        <source>100</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="ALPHA" xml:space="preserve">
+        <source>ALPHA</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Access is currently limited to Floor NFT Token Holders. If you have one, add that wallet first." xml:space="preserve">
+        <source>Access is currently limited to Floor NFT Token Holders. If you have one, add that wallet first.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Add Address" xml:space="preserve">
+        <source>Add Address</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Add a blockchain address to view your NFTs in Floor." xml:space="preserve">
+        <source>Add a blockchain address to view your NFTs in Floor.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Add an address" xml:space="preserve">
+        <source>Add an address</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Address" xml:space="preserve">
+        <source>Address</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Addresses" xml:space="preserve">
+        <source>Addresses</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Another thing" xml:space="preserve">
+        <source>Another thing</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Appearance" xml:space="preserve">
+        <source>Appearance</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Avg:" xml:space="preserve">
+        <source>Avg:</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Bids &amp; trades on this item relative to the rest of the collection" xml:space="preserve">
+        <source>Bids &amp; trades on this item relative to the rest of the collection</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Buy a token on OpenSea" xml:space="preserve">
+        <source>Buy a token on OpenSea</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="CAD" xml:space="preserve">
+        <source>CAD</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Coming back soon!" xml:space="preserve">
+        <source>Coming back soon!</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Coming soon!" xml:space="preserve">
+        <source>Coming soon!</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Could not load stats" xml:space="preserve">
+        <source>Could not load stats</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Currency" xml:space="preserve">
+        <source>Currency</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Current average" xml:space="preserve">
+        <source>Current average</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Current average prices for the collection" xml:space="preserve">
+        <source>Current average prices for the collection</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Dark" xml:space="preserve">
+        <source>Dark</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Date range" xml:space="preserve">
+        <source>Date range</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DeSo" xml:space="preserve">
+        <source>DeSo</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Default Browser" xml:space="preserve">
+        <source>Default Browser</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Display Mode" xml:space="preserve">
+        <source>Display Mode</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Display Value As" xml:space="preserve">
+        <source>Display Value As</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Done" xml:space="preserve">
+        <source>Done</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Dynamic" xml:space="preserve">
+        <source>Dynamic</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="EUR" xml:space="preserve">
+        <source>EUR</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Early Supporter" xml:space="preserve">
+        <source>Early Supporter</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Estimated Value" xml:space="preserve">
+        <source>Estimated Value</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Estimated values are experimental today and should be considered informational only." xml:space="preserve">
+        <source>Estimated values are experimental today and should be considered informational only.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Estimated values use machine learning to give you an estimate of the value an NFT would be likely to trade at (assuming a rational buyer)" xml:space="preserve">
+        <source>Estimated values use machine learning to give you an estimate of the value an NFT would be likely to trade at (assuming a rational buyer)</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Ethereum" xml:space="preserve">
+        <source>Ethereum</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="FLOOR" xml:space="preserve">
+        <source>FLOOR</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Floor" xml:space="preserve">
+        <source>Floor</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Floor is in beta right now." xml:space="preserve">
+        <source>Floor is in beta right now.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="GBP" xml:space="preserve">
+        <source>GBP</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Gas Price Alert" xml:space="preserve">
+        <source>Gas Price Alert</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Generation One" xml:space="preserve">
+        <source>Generation One</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Hidden Collections" xml:space="preserve">
+        <source>Hidden Collections</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Hide Collection" xml:space="preserve">
+        <source>Hide Collection</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="IN ORDER OF RARENESS" xml:space="preserve">
+        <source>IN ORDER OF RARENESS</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="IN THE GAME" xml:space="preserve">
+        <source>IN THE GAME</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="ITEMS" xml:space="preserve">
+        <source>ITEMS</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="In-App Webview" xml:space="preserve">
+        <source>In-App Webview</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="LIVE" xml:space="preserve">
+        <source>LIVE</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Light" xml:space="preserve">
+        <source>Light</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Loading Interwebs..." xml:space="preserve">
+        <source>Loading Interwebs...</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Loading..." xml:space="preserve">
+        <source>Loading...</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Log Out" xml:space="preserve">
+        <source>Log Out</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="MINT" xml:space="preserve">
+        <source>MINT</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Multi-collection activity is disabled to limit API usage while we migrate datasources" xml:space="preserve">
+        <source>Multi-collection activity is disabled to limit API usage while we migrate datasources</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="New floor price:" xml:space="preserve">
+        <source>New floor price:</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No alert set" xml:space="preserve">
+        <source>No alert set</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No history available" xml:space="preserve">
+        <source>No history available</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Not available" xml:space="preserve">
+        <source>Not available</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Not quite yet" xml:space="preserve">
+        <source>Not quite yet</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Open Discord" xml:space="preserve">
+        <source>Open Discord</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Open Twitter" xml:space="preserve">
+        <source>Open Twitter</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Open in Browser" xml:space="preserve">
+        <source>Open in Browser</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Open in MetaMask" xml:space="preserve">
+        <source>Open in MetaMask</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="OpenSea" xml:space="preserve">
+        <source>OpenSea</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="PAID" xml:space="preserve">
+        <source>PAID</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Preferred Browser" xml:space="preserve">
+        <source>Preferred Browser</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Prices" xml:space="preserve">
+        <source>Prices</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Properties of this specific asset" xml:space="preserve">
+        <source>Properties of this specific asset</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Purchase Price" xml:space="preserve">
+        <source>Purchase Price</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Push notifications declined" xml:space="preserve">
+        <source>Push notifications declined</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Recent Activity" xml:space="preserve">
+        <source>Recent Activity</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Request throttled by OpenSea" xml:space="preserve">
+        <source>Request throttled by OpenSea</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Right click → Save as" xml:space="preserve">
+        <source>Right click → Save as</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="SOLD FOR" xml:space="preserve">
+        <source>SOLD FOR</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Search" xml:space="preserve">
+        <source>Search</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Settings" xml:space="preserve">
+        <source>Settings</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Share" xml:space="preserve">
+        <source>Share</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Single Asset Value" xml:space="preserve">
+        <source>Single Asset Value</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Solana" xml:space="preserve">
+        <source>Solana</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Staked" xml:space="preserve">
+        <source>Staked</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Supported address types" xml:space="preserve">
+        <source>Supported address types</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="TOTAL FLOOR" xml:space="preserve">
+        <source>TOTAL FLOOR</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Thank you for joining our community 🥳" xml:space="preserve">
+        <source>Thank you for joining our community 🥳</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="This takes into account:" xml:space="preserve">
+        <source>This takes into account:</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="This will improve soon, but in the meantime, wait a minute." xml:space="preserve">
+        <source>This will improve soon, but in the meantime, wait a minute.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Total Value" xml:space="preserve">
+        <source>Total Value</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Traits" xml:space="preserve">
+        <source>Traits</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Try out example address" xml:space="preserve">
+        <source>Try out example address</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="USD" xml:space="preserve">
+        <source>USD</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Verified Floor Partner" xml:space="preserve">
+        <source>Verified Floor Partner</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="View on OpenSea" xml:space="preserve">
+        <source>View on OpenSea</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="We hope you like it, but we please treat this as informational only." xml:space="preserve">
+        <source>We hope you like it, but we please treat this as informational only.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Website" xml:space="preserve">
+        <source>Website</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Welcome" xml:space="preserve">
+        <source>Welcome</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Welcome to Floor" xml:space="preserve">
+        <source>Welcome to Floor</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="You can use Floor to view the NFTs in any address, but cannot take any actions." xml:space="preserve">
+        <source>You can use Floor to view the NFTs in any address, but cannot take any actions.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Your Token" xml:space="preserve">
+        <source>Your Token</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="gwei" xml:space="preserve">
+        <source>gwei</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="NFTWidget/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="zh-Hant">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.2.1" build-num="13C100"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>NFTWidget</source>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>NFTWidgetExtension</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
+        <source/>
+        <note>Copyright (human-readable)</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="NFTWidget/en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="zh-Hant">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.2.1" build-num="13C100"/>
+    </header>
+    <body>
+      <trans-unit id="Display one of your NFTs" xml:space="preserve">
+        <source>Display one of your NFTs</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Log in to see your NFTs" xml:space="preserve">
+        <source>Log in to see your NFTs</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="NFT Widget" xml:space="preserve">
+        <source>NFT Widget</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="👋" xml:space="preserve">
+        <source>👋</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="PortfolioWidget/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="zh-Hant">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.2.1" build-num="13C100"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>PortfolioWidget</source>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>PortfolioWidgetExtension</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
+        <source/>
+        <note>Copyright (human-readable)</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="PortfolioWidget/en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="zh-Hant">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.2.1" build-num="13C100"/>
+    </header>
+    <body>
+      <trans-unit id="%lld%%" xml:space="preserve">
+        <source>%lld%%</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Portfolio Widget" xml:space="preserve">
+        <source>Portfolio Widget</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Summary of your portfolio." xml:space="preserve">
+        <source>Summary of your portfolio.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
