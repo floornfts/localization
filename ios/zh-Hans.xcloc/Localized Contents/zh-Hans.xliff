@@ -107,6 +107,7 @@
       </trans-unit>
       <trans-unit id="ALPHA" xml:space="preserve">
         <source>ALPHA</source>
+        <target>测试版本</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Access is currently limited to Floor NFT Token Holders. If you have one, add that wallet first." xml:space="preserve">
@@ -269,17 +270,17 @@
       </trans-unit>
       <trans-unit id="FLOOR" xml:space="preserve">
         <source>FLOOR</source>
-        <target>FLOOR</target>
+        <target/>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Floor" xml:space="preserve">
         <source>Floor</source>
-        <target>Floor</target>
+        <target>地板价</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Floor is in beta right now." xml:space="preserve">
         <source>Floor is in beta right now.</source>
-        <target>Floor目前还在beta版本</target>
+        <target>Floor目前还在测试版本</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="GBP" xml:space="preserve">
@@ -329,12 +330,12 @@
       </trans-unit>
       <trans-unit id="LIVE" xml:space="preserve">
         <source>LIVE</source>
-        <target>现场</target>
+        <target>直播</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Light" xml:space="preserve">
         <source>Light</source>
-        <target>光明</target>
+        <target>明亮</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Loading Interwebs..." xml:space="preserve">
@@ -384,6 +385,7 @@
       </trans-unit>
       <trans-unit id="Not quite yet" xml:space="preserve">
         <source>Not quite yet</source>
+        <target>准备中</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Open Discord" xml:space="preserve">
@@ -497,7 +499,7 @@
       </trans-unit>
       <trans-unit id="TOTAL FLOOR" xml:space="preserve">
         <source>TOTAL FLOOR</source>
-        <target>总地板价</target>
+        <target>地板价总额</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Thank you for joining our community 🥳" xml:space="preserve">
