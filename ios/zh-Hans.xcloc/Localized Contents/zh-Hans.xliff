@@ -529,7 +529,7 @@
       </trans-unit>
       <trans-unit id="Try out example address" xml:space="preserve">
         <source>Try out example address</source>
-        <target/>
+        <target>填写测试地址</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="USD" xml:space="preserve">
