@@ -26,6 +26,7 @@
       </trans-unit>
       <trans-unit id="#%@" xml:space="preserve">
         <source>#%@</source>
+        <target/>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@" xml:space="preserve">
@@ -58,6 +59,7 @@
       </trans-unit>
       <trans-unit id="%lld traits" xml:space="preserve">
         <source>%lld traits</source>
+        <target/>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%lld x" xml:space="preserve">
@@ -70,58 +72,72 @@
       </trans-unit>
       <trans-unit id="-" xml:space="preserve">
         <source>-</source>
+        <target/>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="1 DAY" xml:space="preserve">
         <source>1 DAY</source>
+        <target>1天</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="1 day" xml:space="preserve">
         <source>1 day</source>
+        <target>1天</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="1D AVG" xml:space="preserve">
         <source>1D AVG</source>
+        <target>1天平均</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="7 days" xml:space="preserve">
         <source>7 days</source>
+        <target>7天</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="30 days" xml:space="preserve">
         <source>30 days</source>
+        <target>30天</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="100" xml:space="preserve">
         <source>100</source>
+        <target>100</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="ALPHA" xml:space="preserve">
         <source>ALPHA</source>
+        <target>测试版本</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Access is currently limited to Floor NFT Token Holders. If you have one, add that wallet first." xml:space="preserve">
         <source>Access is currently limited to Floor NFT Token Holders. If you have one, add that wallet first.</source>
+        <target>现阶段只有Floor NFT代币的持有者可以使用。如果您持有代币，请填写代币所在的钱包地址。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Add Address" xml:space="preserve">
         <source>Add Address</source>
+        <target>填写地址</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Add a blockchain address to view your NFTs in Floor." xml:space="preserve">
         <source>Add a blockchain address to view your NFTs in Floor.</source>
+        <target>加入区块链钱包地址后才可在Floor显示您持有的NFT</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Add an address" xml:space="preserve">
         <source>Add an address</source>
+        <target>填写地址</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Address" xml:space="preserve">
         <source>Address</source>
+        <target>地址</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Addresses" xml:space="preserve">
         <source>Addresses</source>
+        <target>地址</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Another thing" xml:space="preserve">
@@ -130,54 +146,67 @@
       </trans-unit>
       <trans-unit id="Appearance" xml:space="preserve">
         <source>Appearance</source>
+        <target>外观</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Avg:" xml:space="preserve">
         <source>Avg:</source>
+        <target>平均值：</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Bids &amp; trades on this item relative to the rest of the collection" xml:space="preserve">
         <source>Bids &amp; trades on this item relative to the rest of the collection</source>
+        <target>相对于本系列的其他NFT，在该物品上的竞价与交易</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Buy a token on OpenSea" xml:space="preserve">
         <source>Buy a token on OpenSea</source>
+        <target>在OpenSea购买代币</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="CAD" xml:space="preserve">
         <source>CAD</source>
+        <target>CAD</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Coming back soon!" xml:space="preserve">
         <source>Coming back soon!</source>
+        <target>即将回归！</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Coming soon!" xml:space="preserve">
         <source>Coming soon!</source>
+        <target>即将到来！</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Could not load stats" xml:space="preserve">
         <source>Could not load stats</source>
+        <target>无法读取数据</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Currency" xml:space="preserve">
         <source>Currency</source>
+        <target>货币</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Current average" xml:space="preserve">
         <source>Current average</source>
+        <target>目前平均</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Current average prices for the collection" xml:space="preserve">
         <source>Current average prices for the collection</source>
+        <target>目前项目均价</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Dark" xml:space="preserve">
         <source>Dark</source>
+        <target>黑暗</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Date range" xml:space="preserve">
         <source>Date range</source>
+        <target>日期范围</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="DeSo" xml:space="preserve">
@@ -186,158 +215,197 @@
       </trans-unit>
       <trans-unit id="Default Browser" xml:space="preserve">
         <source>Default Browser</source>
+        <target>默认浏览器</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Display Mode" xml:space="preserve">
         <source>Display Mode</source>
+        <target>显示模式</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Display Value As" xml:space="preserve">
         <source>Display Value As</source>
+        <target>显示数值为</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Done" xml:space="preserve">
         <source>Done</source>
+        <target>完成</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Dynamic" xml:space="preserve">
         <source>Dynamic</source>
+        <target>动态</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="EUR" xml:space="preserve">
         <source>EUR</source>
+        <target>欧元</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Early Supporter" xml:space="preserve">
         <source>Early Supporter</source>
+        <target>早期支持者</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Estimated Value" xml:space="preserve">
         <source>Estimated Value</source>
+        <target>估算值</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Estimated values are experimental today and should be considered informational only." xml:space="preserve">
         <source>Estimated values are experimental today and should be considered informational only.</source>
+        <target>目前的估算值还在试验阶段，仅供参考</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Estimated values use machine learning to give you an estimate of the value an NFT would be likely to trade at (assuming a rational buyer)" xml:space="preserve">
         <source>Estimated values use machine learning to give you an estimate of the value an NFT would be likely to trade at (assuming a rational buyer)</source>
+        <target>估算值是使用机器学习来提供一个NFT大概的合理交易价格</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Ethereum" xml:space="preserve">
         <source>Ethereum</source>
+        <target>以太币</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="FLOOR" xml:space="preserve">
         <source>FLOOR</source>
+        <target/>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Floor" xml:space="preserve">
         <source>Floor</source>
+        <target>地板价</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Floor is in beta right now." xml:space="preserve">
         <source>Floor is in beta right now.</source>
+        <target>Floor目前还在测试版本</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="GBP" xml:space="preserve">
         <source>GBP</source>
+        <target>英镑</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Gas Price Alert" xml:space="preserve">
         <source>Gas Price Alert</source>
+        <target>Gas价格提醒</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Generation One" xml:space="preserve">
         <source>Generation One</source>
+        <target>一代</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Hidden Collections" xml:space="preserve">
         <source>Hidden Collections</source>
+        <target>隐藏收藏品</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Hide Collection" xml:space="preserve">
         <source>Hide Collection</source>
+        <target>隐藏收藏品</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="IN ORDER OF RARENESS" xml:space="preserve">
         <source>IN ORDER OF RARENESS</source>
+        <target>以稀有度排序</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="IN THE GAME" xml:space="preserve">
         <source>IN THE GAME</source>
+        <target>游戏中</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="ITEMS" xml:space="preserve">
         <source>ITEMS</source>
+        <target>物品</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="In-App Webview" xml:space="preserve">
         <source>In-App Webview</source>
+        <target>App内浏览器</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="LIVE" xml:space="preserve">
         <source>LIVE</source>
+        <target>直播</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Light" xml:space="preserve">
         <source>Light</source>
+        <target>明亮</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Loading Interwebs..." xml:space="preserve">
         <source>Loading Interwebs...</source>
+        <target>读取网页中...</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Loading..." xml:space="preserve">
         <source>Loading...</source>
+        <target>读取中...</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Log Out" xml:space="preserve">
         <source>Log Out</source>
+        <target>登出</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="MINT" xml:space="preserve">
         <source>MINT</source>
+        <target>铸造</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Multi-collection activity is disabled to limit API usage while we migrate datasources" xml:space="preserve">
         <source>Multi-collection activity is disabled to limit API usage while we migrate datasources</source>
+        <target>在我们整理数据库的过程中，为了避免过度使用API资源，多个藏品的活动会被禁用</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="New floor price:" xml:space="preserve">
         <source>New floor price:</source>
+        <target>新地板价：</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No alert set" xml:space="preserve">
         <source>No alert set</source>
+        <target>无提醒设置</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No history available" xml:space="preserve">
         <source>No history available</source>
+        <target>无历史信息</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Not available" xml:space="preserve">
         <source>Not available</source>
+        <target>无</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Not quite yet" xml:space="preserve">
         <source>Not quite yet</source>
+        <target>准备中</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Open Discord" xml:space="preserve">
         <source>Open Discord</source>
+        <target>打开Discord</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Open Twitter" xml:space="preserve">
         <source>Open Twitter</source>
+        <target>打开Twitter</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Open in Browser" xml:space="preserve">
         <source>Open in Browser</source>
+        <target>在浏览器打开</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Open in MetaMask" xml:space="preserve">
         <source>Open in MetaMask</source>
+        <target>在MetaMask钱包打开</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="OpenSea" xml:space="preserve">
@@ -346,134 +414,167 @@
       </trans-unit>
       <trans-unit id="PAID" xml:space="preserve">
         <source>PAID</source>
+        <target>已付</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Preferred Browser" xml:space="preserve">
         <source>Preferred Browser</source>
+        <target>首选浏览器</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Prices" xml:space="preserve">
         <source>Prices</source>
+        <target>价格</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Properties of this specific asset" xml:space="preserve">
         <source>Properties of this specific asset</source>
+        <target>该物品的特性</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Purchase Price" xml:space="preserve">
         <source>Purchase Price</source>
+        <target>购买价格</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Push notifications declined" xml:space="preserve">
         <source>Push notifications declined</source>
+        <target>拒绝推送提醒</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Recent Activity" xml:space="preserve">
         <source>Recent Activity</source>
+        <target>最近活动</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Request throttled by OpenSea" xml:space="preserve">
         <source>Request throttled by OpenSea</source>
+        <target>请求被OpenSea限制</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Right click → Save as" xml:space="preserve">
         <source>Right click → Save as</source>
+        <target>邮件点击-&gt;保存</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="SOLD FOR" xml:space="preserve">
         <source>SOLD FOR</source>
+        <target>卖出价格</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Search" xml:space="preserve">
         <source>Search</source>
+        <target>搜索</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Settings" xml:space="preserve">
         <source>Settings</source>
+        <target>设置</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Share" xml:space="preserve">
         <source>Share</source>
+        <target>分享</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Single Asset Value" xml:space="preserve">
         <source>Single Asset Value</source>
+        <target>单个物品价值</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Solana" xml:space="preserve">
         <source>Solana</source>
+        <target>Solano</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Staked" xml:space="preserve">
         <source>Staked</source>
+        <target>质押</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Supported address types" xml:space="preserve">
         <source>Supported address types</source>
+        <target>支持的地址种类</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="TOTAL FLOOR" xml:space="preserve">
         <source>TOTAL FLOOR</source>
+        <target>地板价总额</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Thank you for joining our community 🥳" xml:space="preserve">
         <source>Thank you for joining our community 🥳</source>
+        <target>感谢您加入我们的社区 🥳</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="This takes into account:" xml:space="preserve">
         <source>This takes into account:</source>
+        <target>这个考虑了以下因素：</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="This will improve soon, but in the meantime, wait a minute." xml:space="preserve">
         <source>This will improve soon, but in the meantime, wait a minute.</source>
+        <target>这个很快会改进，但现在请保持耐心。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Total Value" xml:space="preserve">
         <source>Total Value</source>
+        <target>总价值</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Traits" xml:space="preserve">
         <source>Traits</source>
+        <target>特征</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Try out example address" xml:space="preserve">
         <source>Try out example address</source>
+        <target>填写测试地址</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="USD" xml:space="preserve">
         <source>USD</source>
+        <target>美元</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Verified Floor Partner" xml:space="preserve">
         <source>Verified Floor Partner</source>
+        <target>通过验证的Floor合作方</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="View on OpenSea" xml:space="preserve">
         <source>View on OpenSea</source>
+        <target>在OpenSea查看</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="We hope you like it, but we please treat this as informational only." xml:space="preserve">
         <source>We hope you like it, but we please treat this as informational only.</source>
+        <target>我们希望你会喜欢，但仅作参考用途</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Website" xml:space="preserve">
         <source>Website</source>
+        <target>网页</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Welcome" xml:space="preserve">
         <source>Welcome</source>
+        <target>欢迎</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Welcome to Floor" xml:space="preserve">
         <source>Welcome to Floor</source>
+        <target>欢迎来到Floor</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="You can use Floor to view the NFTs in any address, but cannot take any actions." xml:space="preserve">
         <source>You can use Floor to view the NFTs in any address, but cannot take any actions.</source>
+        <target>您可以通过Floor来查看任何地址的NFT，但不能进行任何操作。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Your Token" xml:space="preserve">
         <source>Your Token</source>
+        <target>您的代币</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="gwei" xml:space="preserve">
