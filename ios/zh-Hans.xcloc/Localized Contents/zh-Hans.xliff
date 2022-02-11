@@ -29,6 +29,16 @@
         <target/>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="%@ items" xml:space="preserve">
+        <source>%@ items</source>
+        <target>%@ 项目</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@ item" xml:space="preserve">
+        <source>%@ item</source>
+        <target>%@ 物品</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="%@" xml:space="preserve">
         <source>%@</source>
         <note>No comment provided by engineer.</note>
@@ -579,6 +589,26 @@
       </trans-unit>
       <trans-unit id="gwei" xml:space="preserve">
         <source>gwei</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="item" xml:space="preserve">
+        <source>item</source>
+        <target>物品</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="items" xml:space="preserve">
+        <source>items</source>
+        <target>项目</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Portfolio" xml:space="preserve">
+        <source>Portfolio</source>
+        <target>文件夹</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Activity" xml:space="preserve">
+        <source>Activity</source>
+        <target>活动</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>
