@@ -464,7 +464,7 @@
       </trans-unit>
       <trans-unit id="Right click → Save as" xml:space="preserve">
         <source>Right click → Save as</source>
-        <target>邮件点击-&gt;保存</target>
+        <target>下载图片</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="SOLD FOR" xml:space="preserve">
