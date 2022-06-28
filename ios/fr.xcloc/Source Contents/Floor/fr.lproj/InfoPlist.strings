@@ -1,4 +1,4 @@
 /* Bundle name */
 "CFBundleName" = "Floor";
 /* Privacy - Photo Library Additions Usage Description */
-"NSPhotoLibraryAddUsageDescription" = "Floor would like to save NFT images to your Photo Library.";
+"NSPhotoLibraryAddUsageDescription" = "Floor souhaite enregistrer des images NFT dans votre Galerie Photos.";
