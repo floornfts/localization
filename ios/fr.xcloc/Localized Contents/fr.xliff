@@ -574,12 +574,12 @@
       </trans-unit>
       <trans-unit id="Welcome" xml:space="preserve">
         <source>Welcome</source>
-        <target>Bienvenu</target>
+        <target>Bienvenu(e)</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Welcome to Floor" xml:space="preserve">
         <source>Welcome to Floor</source>
-        <target>Bienvenu sur Floor</target>
+        <target>Bienvenu(e) sur Floor</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="You can use Floor to view the NFTs in any address, but cannot take any actions." xml:space="preserve">
