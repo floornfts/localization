@@ -1,6 +1,0 @@
-/* Bundle display name */
-"CFBundleDisplayName" = "PortfolioWidget";
-/* Bundle name */
-"CFBundleName" = "PortfolioWidgetExtension";
-/* Copyright (human-readable) */
-"NSHumanReadableCopyright" = "";

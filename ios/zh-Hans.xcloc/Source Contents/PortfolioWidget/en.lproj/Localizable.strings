@@ -1,4 +1,10 @@
 /* No comment provided by engineer. */
+"-" = "-";
+
+/* No comment provided by engineer. */
+"%lld x" = "%lld x";
+
+/* No comment provided by engineer. */
 "%lld%%" = "%lld%%";
 
 /* No comment provided by engineer. */
