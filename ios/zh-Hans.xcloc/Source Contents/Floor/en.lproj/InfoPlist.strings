@@ -1,4 +1,8 @@
 /* Bundle name */
 "CFBundleName" = "Floor";
+/* Privacy - Camera Usage Description */
+"NSCameraUsageDescription" = "Floor would like to allow you to add Photos to support tickets.";
 /* Privacy - Photo Library Additions Usage Description */
 "NSPhotoLibraryAddUsageDescription" = "Floor would like to save NFT images to your Photo Library.";
+/* Privacy - Photo Library Usage Description */
+"NSPhotoLibraryUsageDescription" = "Allow Floor to upload photos that you choose.";
