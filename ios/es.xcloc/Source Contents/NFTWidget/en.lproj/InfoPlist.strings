@@ -1,0 +1,6 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "NFTWidget";
+/* Bundle name */
+"CFBundleName" = "NFTWidgetExtension";
+/* Copyright (human-readable) */
+"NSHumanReadableCopyright" = "";
